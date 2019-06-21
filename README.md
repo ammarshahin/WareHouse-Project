@@ -1,4 +1,4 @@
-this is an Electronic Warehouse Database in C 
+This is an Electronic Warehouse Database in C 
     
 This project is Electronic Warehouse Database that can hold 1000 item.
 every item have a capacity of 1000 piece. And the data for every item is : 
