@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1553517601 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\console.c
+	"Console.h"
+
+1553447605 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\console.h
+	<stdio.h>
+	"BasicTypes.h"
+
+1553438013 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\basictypes.h
+
+1553517814 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\display.c
+	"Display.h"
+
+1553523657 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\display.h
+	"console.h"
+	"Organizer.h"
+
+1553523657 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\organizer.h
+	"warehouse.h"
+
+1553526972 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\warehouse.h
+	<stdlib.h>
+	<string.h>
+
+1553469632 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\main.c
+	"main.h"
+
+1553469632 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\main.h
+	"Display.h"
+	"Organizer.h"
+
+1553519034 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\organizer.c
+	"Organizer.h"
+
+1553519034 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse\warehouse.c
+	"warehouse.h"
+
+1553517601 source:c:\users\ammar\desktop\warehouse_v1\warehouse\console.c
+	"Console.h"
+
+1553447605 c:\users\ammar\desktop\warehouse_v1\warehouse\console.h
+	<stdio.h>
+	"BasicTypes.h"
+
+1553438013 c:\users\ammar\desktop\warehouse_v1\warehouse\basictypes.h
+
+1553523657 source:c:\users\ammar\desktop\warehouse_v1\warehouse\display.c
+	"Display.h"
+
+1553523657 c:\users\ammar\desktop\warehouse_v1\warehouse\display.h
+	"console.h"
+	"Organizer.h"
+
+1553523657 c:\users\ammar\desktop\warehouse_v1\warehouse\organizer.h
+	"warehouse.h"
+
+1553526972 c:\users\ammar\desktop\warehouse_v1\warehouse\warehouse.h
+	<stdlib.h>
+	<string.h>
+
+1553469632 source:c:\users\ammar\desktop\warehouse_v1\warehouse\main.c
+	"main.h"
+
+1553469632 c:\users\ammar\desktop\warehouse_v1\warehouse\main.h
+	"Display.h"
+	"Organizer.h"
+
+1553523657 source:c:\users\ammar\desktop\warehouse_v1\warehouse\organizer.c
+	"Organizer.h"
+
+1553526972 source:c:\users\ammar\desktop\warehouse_v1\warehouse\warehouse.c
+	"warehouse.h"
+
+1553517601 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\console.c
+	"Console.h"
+
+1553447605 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\console.h
+	<stdio.h>
+	"BasicTypes.h"
+
+1553438013 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\basictypes.h
+
+1553523657 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\display.c
+	"Display.h"
+
+1553523657 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\display.h
+	"console.h"
+	"Organizer.h"
+
+1553523657 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\organizer.h
+	"warehouse.h"
+
+1553526972 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\warehouse.h
+	<stdlib.h>
+	<string.h>
+
+1553469632 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\main.c
+	"main.h"
+
+1553469632 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\main.h
+	"Display.h"
+	"Organizer.h"
+
+1553523657 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\organizer.c
+	"Organizer.h"
+
+1553526972 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v1\warehouse.c
+	"warehouse.h"
+
+1553517601 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\console.c
+	"Console.h"
+
+1553447605 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\console.h
+	<stdio.h>
+	"BasicTypes.h"
+
+1553438013 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\basictypes.h
+
+1553469632 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\main.c
+	"main.h"
+
+1553469632 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\main.h
+	"Display.h"
+	"Organizer.h"
+
+1553638320 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\display.h
+	"console.h"
+	"Organizer.h"
+
+1553635693 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\organizer.h
+	"warehouse.h"
+
+1553638380 e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\warehouse.h
+	<stdlib.h>
+	<string.h>
+
+1553636552 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\organizer.c
+	"Organizer.h"
+
+1556887343 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\warehouse.c
+	"warehouse.h"
+
+1556887603 source:e:\engennering\embedded systems\_embeddedware course\material\6- sw design & c labs\c labs\labs\warehouse\warehouse_v2\display.c
+	"Display.h"
+
